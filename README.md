@@ -7,7 +7,7 @@ In this notebook,we do PCA using just numpy.It helped me grasp the concept doing
 It is recommended you download the repo and open PCA.ipynb using Jupyter
 
 To understand PCA,I first had to understand the concepts of linear algebra such as Eigen Vectors , Eigen Values , Eigen Basis.
-I highly recommend watch this [short series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which explain those concepts really well
+I highly recommend watching this [short series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which explain those concepts really well
 
 
 References:
